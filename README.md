@@ -1,2 +1,2 @@
 # TP2
-TP2 - Etude d'une dipôle - Formation physique-chimie Académie de Nice
+TP2 - Etude d'un dipôle - Formation physique-chimie Académie de Nice 2019
